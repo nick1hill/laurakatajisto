@@ -8,7 +8,7 @@
   </titlealts>
 
   <abstract>
-    <shortdesc>DITA Open Toolkit 3.5.4 is a maintenance release that fixes issues
+    <shortdesc>DITA Open Toolkit 3.5.4 is a maintenance release that fixes reported issues
       reported in DITA-OT 3.5, which includes <ph conref="#v3.5/summary"/>.</shortdesc>
     <p conkeyref="conref-task/semver-info"/>
     <note type="tip"><ph conkeyref="conref-task/download-ot"/></note>
